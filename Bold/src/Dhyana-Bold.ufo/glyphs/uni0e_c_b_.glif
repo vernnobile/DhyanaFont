@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0ECB" format="1">
-  <advance width="0"/>
+  <advance width="10"/>
   <unicode hex="0ecb"/>
   <outline>
     <contour>
-      <point x="-562" y="1262" type="line" smooth="no"/>
-      <point x="-676" y="1262" type="line" smooth="no"/>
-      <point x="-676" y="1374" type="line" smooth="no"/>
-      <point x="-790" y="1374" type="line" smooth="no"/>
-      <point x="-790" y="1480" type="line" smooth="no"/>
-      <point x="-676" y="1480" type="line" smooth="no"/>
-      <point x="-676" y="1593" type="line" smooth="no"/>
-      <point x="-562" y="1593" type="line" smooth="no"/>
-      <point x="-562" y="1480" type="line" smooth="no"/>
-      <point x="-448" y="1480" type="line" smooth="no"/>
-      <point x="-448" y="1374" type="line" smooth="no"/>
-      <point x="-562" y="1374" type="line" smooth="no"/>
+      <point x="-629.815" y="1384" type="line" smooth="no"/>
+      <point x="-750.815" y="1384" type="line" smooth="no"/>
+      <point x="-750.815" y="1503" type="line" smooth="no"/>
+      <point x="-870.815" y="1503" type="line" smooth="no"/>
+      <point x="-870.815" y="1615" type="line" smooth="no"/>
+      <point x="-750.815" y="1615" type="line" smooth="no"/>
+      <point x="-750.815" y="1735" type="line" smooth="no"/>
+      <point x="-629.815" y="1735" type="line" smooth="no"/>
+      <point x="-629.815" y="1615" type="line" smooth="no"/>
+      <point x="-508.815" y="1615" type="line" smooth="no"/>
+      <point x="-508.815" y="1503" type="line" smooth="no"/>
+      <point x="-629.815" y="1503" type="line" smooth="no"/>
     </contour>
   </outline>
   <lib>
@@ -25,17 +25,17 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>1374</integer>
-	    <key>width</key>	    <integer>106</integer>
+	    <key>position</key>	    <integer>1456</integer>
+	    <key>width</key>	    <integer>112</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>-676</integer>
+	    <integer>-751</integer>
 	    <key>width</key>
-	    <integer>114</integer>
+	    <integer>121</integer>
 	  </dict>
 	</array>
       </dict>

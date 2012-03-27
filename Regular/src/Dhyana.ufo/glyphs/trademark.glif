@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="trademark" format="1">
-  <advance width="1634"/>
+  <advance width="1765"/>
   <unicode hex="2122"/>
   <outline>
     <contour>
-      <point x="1149" y="758" type="line" smooth="no"/>
-      <point x="1333" y="1413" type="line" smooth="no"/>
-      <point x="1562" y="1413" type="line" smooth="no"/>
-      <point x="1562" y="624" type="line" smooth="no"/>
-      <point x="1435" y="624" type="line" smooth="no"/>
-      <point x="1435" y="1288" type="line" smooth="no"/>
-      <point x="1238" y="624" type="line" smooth="no"/>
-      <point x="1060" y="624" type="line" smooth="no"/>
-      <point x="864" y="1288" type="line" smooth="no"/>
-      <point x="864" y="624" type="line" smooth="no"/>
-      <point x="736" y="624" type="line" smooth="no"/>
-      <point x="736" y="1413" type="line" smooth="no"/>
-      <point x="965" y="1413" type="line" smooth="no"/>
+      <point x="1243" y="819" type="line" smooth="no"/>
+      <point x="1442" y="1526" type="line" smooth="no"/>
+      <point x="1689" y="1526" type="line" smooth="no"/>
+      <point x="1689" y="674" type="line" smooth="no"/>
+      <point x="1552" y="674" type="line" smooth="no"/>
+      <point x="1552" y="1391" type="line" smooth="no"/>
+      <point x="1339" y="674" type="line" smooth="no"/>
+      <point x="1147" y="674" type="line" smooth="no"/>
+      <point x="935" y="1391" type="line" smooth="no"/>
+      <point x="935" y="674" type="line" smooth="no"/>
+      <point x="797" y="674" type="line" smooth="no"/>
+      <point x="797" y="1526" type="line" smooth="no"/>
+      <point x="1044" y="1526" type="line" smooth="no"/>
     </contour>
     <contour>
-      <point x="626" y="1310" type="line" smooth="no"/>
-      <point x="417" y="1310" type="line" smooth="no"/>
-      <point x="417" y="624" type="line" smooth="no"/>
-      <point x="282" y="624" type="line" smooth="no"/>
-      <point x="282" y="1310" type="line" smooth="no"/>
-      <point x="72" y="1310" type="line" smooth="no"/>
-      <point x="72" y="1413" type="line" smooth="no"/>
-      <point x="626" y="1413" type="line" smooth="no"/>
+      <point x="678" y="1415" type="line" smooth="no"/>
+      <point x="452" y="1415" type="line" smooth="no"/>
+      <point x="452" y="674" type="line" smooth="no"/>
+      <point x="307" y="674" type="line" smooth="no"/>
+      <point x="307" y="1415" type="line" smooth="no"/>
+      <point x="80" y="1415" type="line" smooth="no"/>
+      <point x="80" y="1526" type="line" smooth="no"/>
+      <point x="678" y="1526" type="line" smooth="no"/>
     </contour>
   </outline>
   <lib>
@@ -36,33 +36,33 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>624</integer>
-	    <key>width</key>	    <integer>134</integer>
+	    <key>position</key>	    <integer>674</integer>
+	    <key>width</key>	    <integer>145</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1310</integer>
-	    <key>width</key>	    <integer>103</integer>
+	    <key>position</key>	    <integer>1415</integer>
+	    <key>width</key>	    <integer>111</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>282</integer>
+	    <integer>307</integer>
 	    <key>width</key>
-	    <integer>135</integer>
+	    <integer>146</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>736</integer>
+	    <integer>797</integer>
 	    <key>width</key>
-	    <integer>128</integer>
+	    <integer>138</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>1435</integer>
+	    <integer>1552</integer>
 	    <key>width</key>
-	    <integer>127</integer>
+	    <integer>137</integer>
 	  </dict>
 	</array>
       </dict>

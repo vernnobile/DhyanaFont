@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0EB7_uni0EC9" format="1">
-  <advance width="0"/>
+  <advance width="5"/>
   <outline>
-    <component base="uni0EB7" xOffset="129" yOffset="-40"/>
-    <component base="uni0EC9" xOffset="91" yOffset="427"/>
+    <component base="uni0EB7" xOffset="89" yOffset="-43"/>
+    <component base="uni0EC9" xOffset="-6" yOffset="461"/>
   </outline>
   <lib>
     <dict>
@@ -12,71 +12,71 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>1165</integer>
-	    <key>width</key>	    <integer>97</integer>
+	    <key>position</key>	    <integer>1258</integer>
+	    <key>width</key>	    <integer>105</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1284</integer>
-	    <key>width</key>	    <integer>144</integer>
+	    <key>position</key>	    <integer>1387</integer>
+	    <key>width</key>	    <integer>156</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1527</integer>
-	    <key>width</key>	    <integer>103</integer>
+	    <key>position</key>	    <integer>1649</integer>
+	    <key>width</key>	    <integer>111</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1697</integer>
-	    <key>width</key>	    <integer>85</integer>
+	    <key>position</key>	    <integer>1833</integer>
+	    <key>width</key>	    <integer>92</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1697</integer>
-	    <key>width</key>	    <integer>114</integer>
+	    <key>position</key>	    <integer>1833</integer>
+	    <key>width</key>	    <integer>123</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1876</integer>
-	    <key>width</key>	    <integer>76</integer>
+	    <key>position</key>	    <integer>2026</integer>
+	    <key>width</key>	    <integer>82</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>2114</integer>
-	    <key>width</key>	    <integer>91</integer>
+	    <key>position</key>	    <integer>2283</integer>
+	    <key>width</key>	    <integer>98</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>-1096</integer>
+	    <integer>-1288</integer>
 	    <key>width</key>
-	    <integer>126</integer>
+	    <integer>136</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>-1083</integer>
+	    <integer>-1274</integer>
 	    <key>width</key>
-	    <integer>94</integer>
+	    <integer>102</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>-807</integer>
+	    <integer>-976</integer>
 	    <key>width</key>
-	    <integer>113</integer>
+	    <integer>122</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>-699</integer>
+	    <integer>-859</integer>
 	    <key>width</key>
-	    <integer>179</integer>
+	    <integer>193</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>-240</integer>
+	    <integer>-363</integer>
 	    <key>width</key>
-	    <integer>128</integer>
+	    <integer>138</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>-205</integer>
+	    <integer>-325</integer>
 	    <key>width</key>
-	    <integer>126</integer>
+	    <integer>136</integer>
 	  </dict>
 	</array>
       </dict>

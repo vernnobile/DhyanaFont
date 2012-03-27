@@ -1,0 +1,44 @@
+FONTLOG for Dhyana fonts
+
+This file provides detailed information on the Dhyana 
+Font Software.
+
+This information should be distributed along with the 
+Dhyana fonts and any derivative works.
+
+Basic Font Information
+
+DESC
+
+Dhyana is a Unicode typeface family that supports languages 
+that use the Lao script, and could be 
+expanded to support other scripts.
+
+More specifically, this release supports the following 
+Unicode ranges: Lao
+
+These files are included:
+
+1. src/Dhyana.sfd Original Source Files in postscript curves.
+2. src/Dhyana.ufo Source Files in UFO format.
+3. src/Dhyana.otf OpenType font format.
+4. Dhyana.ttf TrueType font format.
+
+To contribute to the project contact DDD
+at EEE
+
+ChangeLog
+
+ZZ MMM 2012 (DDD) XXX v1.001
+- Initial release
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), 
+email (E), web-address (if you have one) (W) and 
+description (D). This list is in alphabetical order.
+
+N: DDD
+E: EEE
+W: 
+D: Original Type Designer

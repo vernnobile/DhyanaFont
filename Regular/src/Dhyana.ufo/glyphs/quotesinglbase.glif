@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotesinglbase" format="1">
-  <advance width="647"/>
+  <advance width="700"/>
   <unicode hex="201a"/>
   <outline>
     <contour>
-      <point x="224" y="0" type="line" smooth="no"/>
-      <point x="224" y="293" type="line" smooth="no"/>
-      <point x="505" y="293" type="line" smooth="no"/>
-      <point x="505" y="44" type="line" smooth="yes"/>
-      <point x="505" y="-123"/>
-      <point x="412" y="-214"/>
-      <point x="276" y="-253" type="curve" smooth="no"/>
-      <point x="225" y="-159" type="line" smooth="no"/>
-      <point x="303" y="-132"/>
-      <point x="355" y="-102"/>
-      <point x="355" y="0" type="curve" smooth="no"/>
+      <point x="247" y="0" type="line" smooth="no"/>
+      <point x="247" y="316" type="line" smooth="no"/>
+      <point x="550" y="316" type="line" smooth="no"/>
+      <point x="550" y="48" type="line" smooth="yes"/>
+      <point x="550" y="-132"/>
+      <point x="450" y="-231"/>
+      <point x="303" y="-273" type="curve" smooth="no"/>
+      <point x="248" y="-172" type="line" smooth="no"/>
+      <point x="332" y="-143"/>
+      <point x="388" y="-110"/>
+      <point x="388" y="0" type="curve" smooth="no"/>
     </contour>
   </outline>
   <lib>
@@ -24,23 +24,23 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>-253</integer>
-	    <key>width</key>	    <integer>546</integer>
+	    <key>position</key>	    <integer>-273</integer>
+	    <key>width</key>	    <integer>590</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>224</integer>
+	    <integer>247</integer>
 	    <key>width</key>
-	    <integer>281</integer>
+	    <integer>303</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>355</integer>
+	    <integer>388</integer>
 	    <key>width</key>
-	    <integer>150</integer>
+	    <integer>162</integer>
 	  </dict>
 	</array>
       </dict>

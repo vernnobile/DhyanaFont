@@ -43,6 +43,11 @@ lookup ligaStandardLigatureslookup1 {
     sub \uni0ECD \uni0ECB  by \uni0ECD_uni0ECB;
 } ligaStandardLigatureslookup1;
 
+lookup ccmpGlyphCompositionDecompositi {
+  lookupflag 0;
+    sub \uni0EB3 by \uni0ECD \uni0EB2 ;
+} ccmpGlyphCompositionDecompositi;
+
 feature liga {
 
   script lao ;
@@ -55,6 +60,13 @@ feature liga {
       lookup ligaStandardLigatureslookup0;
       lookup ligaStandardLigatureslookup1;
 } liga;
+
+feature ccmp {
+
+  script lao ;
+     language dflt ;
+      lookup ccmpGlyphCompositionDecompositi;
+} ccmp;
 
 # GPOS 
 

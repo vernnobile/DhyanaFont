@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0ECC_uni0EC8" format="1">
-  <advance width="0"/>
+  <advance width="14"/>
   <outline>
-    <component base="uni0ECC" xOffset="101" yOffset="-85"/>
-    <component base="uni0EC8" xOffset="-46" yOffset="400"/>
+    <component base="uni0ECC" xOffset="69" yOffset="-92"/>
+    <component base="uni0EC8" xOffset="-90" yOffset="432"/>
   </outline>
   <lib>
     <dict>
@@ -12,47 +12,47 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>1166</integer>
-	    <key>width</key>	    <integer>98</integer>
+	    <key>position</key>	    <integer>1259</integer>
+	    <key>width</key>	    <integer>106</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1378</integer>
-	    <key>width</key>	    <integer>101</integer>
+	    <key>position</key>	    <integer>1488</integer>
+	    <key>width</key>	    <integer>109</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1416</integer>
-	    <key>width</key>	    <integer>100</integer>
+	    <key>position</key>	    <integer>1529</integer>
+	    <key>width</key>	    <integer>108</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1670</integer>
-	    <key>width</key>	    <integer>410</integer>
+	    <key>position</key>	    <integer>1804</integer>
+	    <key>width</key>	    <integer>443</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>-885</integer>
+	    <integer>-996</integer>
 	    <key>width</key>
-	    <integer>106</integer>
+	    <integer>114</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>-627</integer>
+	    <integer>-717</integer>
 	    <key>width</key>
-	    <integer>63</integer>
+	    <integer>68</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>-579</integer>
+	    <integer>-665</integer>
 	    <key>width</key>
-	    <integer>138</integer>
+	    <integer>149</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>-297</integer>
+	    <integer>-361</integer>
 	    <key>width</key>
-	    <integer>84</integer>
+	    <integer>91</integer>
 	  </dict>
 	</array>
       </dict>

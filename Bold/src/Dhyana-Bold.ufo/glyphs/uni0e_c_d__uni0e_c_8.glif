@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0ECD_uni0EC8" format="1">
-  <advance width="0"/>
+  <advance width="8"/>
   <outline>
-    <component base="uni0ECD" xOffset="15" yOffset="-1"/>
-    <component base="uni0EC8" xOffset="-137" yOffset="492"/>
+    <component base="uni0ECD" xOffset="-20.1838" yOffset="-1"/>
+    <component base="uni0EC8" xOffset="-216.938" yOffset="522"/>
   </outline>
   <lib>
     <dict>
@@ -12,37 +12,37 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>1212</integer>
-	    <key>width</key>	    <integer>133</integer>
+	    <key>position</key>	    <integer>1285</integer>
+	    <key>width</key>	    <integer>141</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1514</integer>
-	    <key>width</key>	    <integer>130</integer>
+	    <key>position</key>	    <integer>1605</integer>
+	    <key>width</key>	    <integer>138</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1737</integer>
-	    <key>width</key>	    <integer>406</integer>
+	    <key>position</key>	    <integer>1841</integer>
+	    <key>width</key>	    <integer>430</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>-807</integer>
+	    <integer>-927</integer>
 	    <key>width</key>
-	    <integer>136</integer>
+	    <integer>144</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>-679</integer>
+	    <integer>-792</integer>
 	    <key>width</key>
-	    <integer>193</integer>
+	    <integer>205</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>-499</integer>
+	    <integer>-601</integer>
 	    <key>width</key>
-	    <integer>137</integer>
+	    <integer>145</integer>
 	  </dict>
 	</array>
       </dict>

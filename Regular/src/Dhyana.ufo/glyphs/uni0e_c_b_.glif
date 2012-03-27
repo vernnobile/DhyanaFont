@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0ECB" format="1">
-  <advance width="0"/>
+  <advance width="28"/>
   <unicode hex="0ecb"/>
   <outline>
     <contour>
-      <point x="-754" y="1257" type="line" smooth="no"/>
-      <point x="-868" y="1257" type="line" smooth="no"/>
-      <point x="-868" y="1369" type="line" smooth="no"/>
-      <point x="-982" y="1369" type="line" smooth="no"/>
-      <point x="-982" y="1475" type="line" smooth="no"/>
-      <point x="-868" y="1475" type="line" smooth="no"/>
-      <point x="-868" y="1588" type="line" smooth="no"/>
-      <point x="-754" y="1588" type="line" smooth="no"/>
-      <point x="-754" y="1475" type="line" smooth="no"/>
-      <point x="-639" y="1475" type="line" smooth="no"/>
-      <point x="-639" y="1369" type="line" smooth="no"/>
-      <point x="-754" y="1369" type="line" smooth="no"/>
+      <point x="-857" y="1402" type="line" smooth="no"/>
+      <point x="-980" y="1402" type="line" smooth="no"/>
+      <point x="-980" y="1523" type="line" smooth="no"/>
+      <point x="-1104" y="1523" type="line" smooth="no"/>
+      <point x="-1104" y="1637" type="line" smooth="no"/>
+      <point x="-980" y="1637" type="line" smooth="no"/>
+      <point x="-980" y="1759" type="line" smooth="no"/>
+      <point x="-857" y="1759" type="line" smooth="no"/>
+      <point x="-857" y="1637" type="line" smooth="no"/>
+      <point x="-733" y="1637" type="line" smooth="no"/>
+      <point x="-733" y="1523" type="line" smooth="no"/>
+      <point x="-857" y="1523" type="line" smooth="no"/>
     </contour>
   </outline>
   <lib>
@@ -25,21 +25,21 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>1369</integer>
-	    <key>width</key>	    <integer>106</integer>
+	    <key>position</key>	    <integer>1479</integer>
+	    <key>width</key>	    <integer>114</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1568</integer>
-	    <key>width</key>	    <integer>20</integer>
+	    <key>position</key>	    <integer>1693</integer>
+	    <key>width</key>	    <integer>22</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>-868</integer>
+	    <integer>-980</integer>
 	    <key>width</key>
-	    <integer>114</integer>
+	    <integer>123</integer>
 	  </dict>
 	</array>
       </dict>

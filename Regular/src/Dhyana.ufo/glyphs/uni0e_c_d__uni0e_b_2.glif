@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0ECD_uni0EB2" format="1">
-  <advance width="943"/>
+  <advance width="1022"/>
   <outline>
-    <component base="uni0ECD" xOffset="356"/>
-    <component base="uni0EB2"/>
+    <component base="uni0ECD" xOffset="366"/>
+    <component base="uni0EB2" xOffset="-20"/>
   </outline>
   <lib>
     <dict>
@@ -13,56 +13,56 @@
 	<array>
 	  <dict>
 	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>21</integer>
+	    <key>width</key>	    <integer>23</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>676</integer>
-	    <key>width</key>	    <integer>94</integer>
+	    <key>position</key>	    <integer>730</integer>
+	    <key>width</key>	    <integer>102</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1008</integer>
-	    <key>width</key>	    <integer>96</integer>
+	    <key>position</key>	    <integer>1089</integer>
+	    <key>width</key>	    <integer>104</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1226</integer>
-	    <key>width</key>	    <integer>98</integer>
+	    <key>position</key>	    <integer>1324</integer>
+	    <key>width</key>	    <integer>106</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1555</integer>
-	    <key>width</key>	    <integer>90</integer>
+	    <key>position</key>	    <integer>1679</integer>
+	    <key>width</key>	    <integer>97</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>-440</integer>
+	    <integer>-493</integer>
 	    <key>width</key>
-	    <integer>103</integer>
+	    <integer>111</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>-107</integer>
+	    <integer>-134</integer>
 	    <key>width</key>
-	    <integer>103</integer>
+	    <integer>111</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>95</integer>
+	    <integer>85</integer>
 	    <key>width</key>
-	    <integer>122</integer>
+	    <integer>132</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>436</integer>
+	    <integer>453</integer>
 	    <key>width</key>
-	    <integer>89</integer>
+	    <integer>96</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>694</integer>
+	    <integer>732</integer>
 	    <key>width</key>
-	    <integer>157</integer>
+	    <integer>170</integer>
 	  </dict>
 	</array>
       </dict>

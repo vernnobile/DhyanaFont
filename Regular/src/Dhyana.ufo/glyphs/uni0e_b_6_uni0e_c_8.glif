@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0EB6_uni0EC8" format="1">
-  <advance width="0"/>
+  <advance width="4"/>
   <outline>
-    <component base="uni0EB6" xOffset="40" yOffset="-40"/>
-    <component base="uni0EC8" xOffset="-78" yOffset="472"/>
+    <component base="uni0EB6" xOffset="-4" yOffset="-43"/>
+    <component base="uni0EC8" xOffset="-178" yOffset="510"/>
   </outline>
   <lib>
     <dict>
@@ -12,47 +12,47 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>1165</integer>
-	    <key>width</key>	    <integer>97</integer>
+	    <key>position</key>	    <integer>1258</integer>
+	    <key>width</key>	    <integer>105</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1284</integer>
-	    <key>width</key>	    <integer>144</integer>
+	    <key>position</key>	    <integer>1387</integer>
+	    <key>width</key>	    <integer>156</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1527</integer>
-	    <key>width</key>	    <integer>103</integer>
+	    <key>position</key>	    <integer>1649</integer>
+	    <key>width</key>	    <integer>111</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1742</integer>
-	    <key>width</key>	    <integer>410</integer>
+	    <key>position</key>	    <integer>1881</integer>
+	    <key>width</key>	    <integer>443</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>-1037</integer>
+	    <integer>-1214</integer>
 	    <key>width</key>
-	    <integer>126</integer>
+	    <integer>136</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>-630</integer>
+	    <integer>-774</integer>
 	    <key>width</key>
-	    <integer>178</integer>
+	    <integer>192</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>-611</integer>
+	    <integer>-754</integer>
+	    <key>width</key>
+	    <integer>149</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>-289</integer>
 	    <key>width</key>
 	    <integer>138</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>-181</integer>
-	    <key>width</key>
-	    <integer>128</integer>
 	  </dict>
 	</array>
       </dict>

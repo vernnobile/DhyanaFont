@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guilsinglleft" format="1">
-  <advance width="768"/>
+  <advance width="830"/>
   <unicode hex="2039"/>
   <outline>
     <contour>
-      <point x="688" y="842" type="line" smooth="no"/>
-      <point x="241" y="577" type="line" smooth="no"/>
-      <point x="688" y="306" type="line" smooth="no"/>
-      <point x="688" y="99" type="line" smooth="no"/>
-      <point x="80" y="481" type="line" smooth="no"/>
-      <point x="80" y="666" type="line" smooth="no"/>
-      <point x="688" y="1049" type="line" smooth="no"/>
+      <point x="745" y="909" type="line" smooth="no"/>
+      <point x="262" y="623" type="line" smooth="no"/>
+      <point x="745" y="330" type="line" smooth="no"/>
+      <point x="745" y="107" type="line" smooth="no"/>
+      <point x="88" y="519" type="line" smooth="no"/>
+      <point x="88" y="719" type="line" smooth="no"/>
+      <point x="745" y="1133" type="line" smooth="no"/>
     </contour>
   </outline>
   <lib>
@@ -20,21 +20,21 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>99</integer>
-	    <key>width</key>	    <integer>207</integer>
+	    <key>position</key>	    <integer>107</integer>
+	    <key>width</key>	    <integer>224</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>842</integer>
-	    <key>width</key>	    <integer>207</integer>
+	    <key>position</key>	    <integer>909</integer>
+	    <key>width</key>	    <integer>224</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>80</integer>
+	    <integer>88</integer>
 	    <key>width</key>
-	    <integer>608</integer>
+	    <integer>657</integer>
 	  </dict>
 	</array>
       </dict>
