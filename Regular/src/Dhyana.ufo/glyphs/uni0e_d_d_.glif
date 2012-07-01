@@ -148,20 +148,20 @@
 	    <key>width</key>	    <integer>106</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>187</integer>
-	    <key>width</key>	    <integer>89</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>485</integer>
-	    <key>width</key>	    <integer>102</integer>
+	    <key>position</key>	    <integer>312</integer>
+	    <key>width</key>	    <integer>98</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>778</integer>
 	    <key>width</key>	    <integer>99</integer>
 	  </dict>
 	  <dict>
+	    <key>position</key>	    <integer>794</integer>
+	    <key>width</key>	    <integer>93</integer>
+	  </dict>
+	  <dict>
 	    <key>position</key>	    <integer>1089</integer>
-	    <key>width</key>	    <integer>104</integer>
+	    <key>width</key>	    <integer>103</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
@@ -198,25 +198,19 @@
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>1217</integer>
+	    <integer>1343</integer>
 	    <key>width</key>
-	    <integer>135</integer>
+	    <integer>134</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>1560</integer>
+	    <integer>1675</integer>
 	    <key>width</key>
-	    <integer>132</integer>
+	    <integer>169</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>1783</integer>
-	    <key>width</key>
-	    <integer>170</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>2607</integer>
+	    <integer>2499</integer>
 	    <key>width</key>
 	    <integer>171</integer>
 	  </dict>

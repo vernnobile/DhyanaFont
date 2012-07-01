@@ -59,15 +59,15 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>1301</integer>
+	    <key>position</key>	    <integer>1377</integer>
 	    <key>width</key>	    <integer>105</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1430</integer>
-	    <key>width</key>	    <integer>156</integer>
+	    <key>position</key>	    <integer>1506</integer>
+	    <key>width</key>	    <integer>155</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1692</integer>
+	    <key>position</key>	    <integer>1768</integer>
 	    <key>width</key>	    <integer>111</integer>
 	  </dict>
 	</array>
@@ -89,7 +89,7 @@
 	    <key>position</key>
 	    <integer>-452</integer>
 	    <key>width</key>
-	    <integer>138</integer>
+	    <integer>139</integer>
 	  </dict>
 	</array>
       </dict>

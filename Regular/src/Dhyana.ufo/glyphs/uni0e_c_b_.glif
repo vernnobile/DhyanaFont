@@ -25,12 +25,8 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>1479</integer>
+	    <key>position</key>	    <integer>1523</integer>
 	    <key>width</key>	    <integer>114</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1693</integer>
-	    <key>width</key>	    <integer>22</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>

@@ -4,7 +4,7 @@ FullName: Dhyana Bold
 FamilyName: Dhyana
 Weight: Bold
 Copyright: Copyright (c) 2010 by Vernon Adams. All rights reserved.
-Version: 1.00, 2005
+Version: 1.001
 ItalicAngle: 0
 UnderlinePosition: -188
 UnderlineWidth: 48
@@ -20,7 +20,11 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1283209859
+<<<<<<< HEAD
 ModificationTime: 1345637440
+=======
+ModificationTime: 1332927256
+>>>>>>> updates
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -1021,8 +1025,13 @@ ShortTable: maxp 16
   2
   1
 EndShort
+<<<<<<< HEAD
 LangName: 1033 "" "" "" "newtypography.co.uk : Dhyana : 20-8-2010" "" "Version 1.00, 2005" "" "Dhyana Bold is a trademark of Vernon Adams." "Vernon Adams" "" "Copyright (c) 2010 by Vernon Adams. All rights reserved." "" "" "" "" "" "" "" "Dhyana Bold" 
 GaspTable: 3 6 2 13 1 65535 3 0
+=======
+LangName: 1033 "" "" "" "newtypography.co.uk : Dhyana : 20-8-2010" "" "Version 1.001" "" "Dhyana Bold is a trademark of Vernon Adams." "Vernon Adams" "" "Copyright (c) 2010 by Vernon Adams. All rights reserved." "" "" "" "http://scripts.sil.org/OFL" "" "" "" "Dhyana Bold" 
+GaspTable: 3 6 2 13 1 65535 3
+>>>>>>> updates
 Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none

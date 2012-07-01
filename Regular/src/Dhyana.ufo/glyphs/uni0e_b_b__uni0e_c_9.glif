@@ -12,27 +12,27 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>1259</integer>
+	    <key>position</key>	    <integer>1281</integer>
 	    <key>width</key>	    <integer>114</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1580</integer>
+	    <key>position</key>	    <integer>1602</integer>
 	    <key>width</key>	    <integer>125</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1799</integer>
+	    <key>position</key>	    <integer>1942</integer>
 	    <key>width</key>	    <integer>92</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1799</integer>
+	    <key>position</key>	    <integer>1942</integer>
 	    <key>width</key>	    <integer>123</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1993</integer>
+	    <key>position</key>	    <integer>2136</integer>
 	    <key>width</key>	    <integer>82</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>2250</integer>
+	    <key>position</key>	    <integer>2393</integer>
 	    <key>width</key>	    <integer>98</integer>
 	  </dict>
 	</array>
@@ -40,37 +40,37 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>-1234</integer>
+	    <integer>-1247</integer>
 	    <key>width</key>
-	    <integer>121</integer>
+	    <integer>101</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>-1035</integer>
+	    <integer>-1233</integer>
 	    <key>width</key>
-	    <integer>102</integer>
+	    <integer>120</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>-904</integer>
-	    <key>width</key>
-	    <integer>95</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>-737</integer>
+	    <integer>-949</integer>
 	    <key>width</key>
 	    <integer>122</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>-314</integer>
+	    <integer>-903</integer>
 	    <key>width</key>
-	    <integer>119</integer>
+	    <integer>95</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>-86</integer>
+	    <integer>-313</integer>
+	    <key>width</key>
+	    <integer>118</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>-299</integer>
 	    <key>width</key>
 	    <integer>136</integer>
 	  </dict>

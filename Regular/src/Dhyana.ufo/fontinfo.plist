@@ -31,7 +31,7 @@
 	<key>openTypeNameLicenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeNameVersion</key>
-	<string>Version 1.00, 2005</string>
+	<string>Version 1.001</string>
 	<key>openTypeNameUniqueID</key>
 	<string>VernonAdams: Dhyana: 2010</string>
 	<key>openTypeNameDescription</key>
@@ -144,7 +144,7 @@
 		<integer>-41</integer>
 		<integer>0</integer>
 		<integer>1169</integer>
-		<integer>1176</integer>
+		<integer>1190</integer>
 		<integer>1319</integer>
 		<integer>1334</integer>
 		<integer>1579</integer>
@@ -157,23 +157,24 @@
 	</array>
 	<key>postscriptStemSnapH</key>
 	<array>
-		<integer>20</integer>
-		<integer>77</integer>
-		<integer>85</integer>
-		<integer>97</integer>
-		<integer>103</integer>
+		<integer>21</integer>
+		<integer>83</integer>
+		<integer>92</integer>
+		<integer>105</integer>
+		<integer>111</integer>
 		<integer>115</integer>
 		<integer>125</integer>
-		<integer>131</integer>
+		<integer>132</integer>
 		<integer>137</integer>
 		<integer>143</integer>
 		<integer>152</integer>
 	</array>
 	<key>postscriptStemSnapV</key>
 	<array>
-		<integer>128</integer>
-		<integer>158</integer>
-		<integer>183</integer>
+		<integer>133</integer>
+		<integer>162</integer>
+		<integer>170</integer>
+		<integer>182</integer>
 		<integer>190</integer>
 		<integer>194</integer>
 		<integer>200</integer>

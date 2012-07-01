@@ -12,32 +12,38 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>1258</integer>
+	    <key>position</key>	    <integer>1334</integer>
 	    <key>width</key>	    <integer>105</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1649</integer>
+	    <key>position</key>	    <integer>1725</integer>
 	    <key>width</key>	    <integer>111</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1838</integer>
+	    <key>position</key>	    <integer>1981</integer>
 	    <key>width</key>	    <integer>92</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1838</integer>
+	    <key>position</key>	    <integer>1981</integer>
 	    <key>width</key>	    <integer>123</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>2031</integer>
+	    <key>position</key>	    <integer>2175</integer>
 	    <key>width</key>	    <integer>82</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>2289</integer>
+	    <key>position</key>	    <integer>2432</integer>
 	    <key>width</key>	    <integer>98</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
 	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>-1293</integer>
+	    <key>width</key>
+	    <integer>101</integer>
+	  </dict>
 	  <dict>
 	    <key>position</key>
 	    <integer>-1274</integer>
@@ -46,25 +52,19 @@
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>-1264</integer>
-	    <key>width</key>
-	    <integer>102</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>-966</integer>
+	    <integer>-995</integer>
 	    <key>width</key>
 	    <integer>122</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>-349</integer>
+	    <integer>-350</integer>
 	    <key>width</key>
-	    <integer>138</integer>
+	    <integer>139</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>-316</integer>
+	    <integer>-345</integer>
 	    <key>width</key>
 	    <integer>136</integer>
 	  </dict>

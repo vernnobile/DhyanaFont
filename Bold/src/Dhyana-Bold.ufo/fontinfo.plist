@@ -28,8 +28,10 @@
 	<string>2010/07/30 23:10:59</string>
 	<key>openTypeNameManufacturer</key>
 	<string>Vernon Adams</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeNameVersion</key>
-	<string>Version 1.00, 2005</string>
+	<string>Version 1.001</string>
 	<key>openTypeNameUniqueID</key>
 	<string>newtypography.co.uk : Dhyana : 20-8-2010</string>
 	<key>openTypeNameDescription</key>

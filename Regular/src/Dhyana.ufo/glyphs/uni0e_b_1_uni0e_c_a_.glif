@@ -3,7 +3,7 @@
   <advance width="4"/>
   <outline>
     <component base="uni0EB1" xOffset="-65" yOffset="446"/>
-    <component base="uni0ECA" xOffset="35" yOffset="-72"/>
+    <component base="uni0ECA" xOffset="182" yOffset="-72"/>
   </outline>
   <lib>
     <dict>
@@ -12,57 +12,57 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>1259</integer>
+	    <key>position</key>	    <integer>1360</integer>
 	    <key>width</key>	    <integer>83</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1562</integer>
+	    <key>position</key>	    <integer>1662</integer>
 	    <key>width</key>	    <integer>86</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1747</integer>
+	    <key>position</key>	    <integer>1818</integer>
 	    <key>width</key>	    <integer>127</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>2079</integer>
-	    <key>width</key>	    <integer>114</integer>
+	    <key>position</key>	    <integer>2149</integer>
+	    <key>width</key>	    <integer>115</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>-1283</integer>
+	    <integer>-1135</integer>
 	    <key>width</key>
 	    <integer>121</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>-1096</integer>
+	    <integer>-995</integer>
 	    <key>width</key>
 	    <integer>107</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>-952</integer>
+	    <integer>-804</integer>
 	    <key>width</key>
 	    <integer>92</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>-789</integer>
+	    <integer>-688</integer>
 	    <key>width</key>
 	    <integer>106</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>-483</integer>
+	    <integer>-381</integer>
 	    <key>width</key>
-	    <integer>105</integer>
+	    <integer>104</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>-332</integer>
+	    <integer>-184</integer>
 	    <key>width</key>
 	    <integer>119</integer>
 	  </dict>

@@ -24,19 +24,19 @@
 	    <key>width</key>	    <integer>108</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1767</integer>
+	    <key>position</key>	    <integer>1909</integer>
 	    <key>width</key>	    <integer>92</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1767</integer>
+	    <key>position</key>	    <integer>1909</integer>
 	    <key>width</key>	    <integer>123</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1960</integer>
+	    <key>position</key>	    <integer>2103</integer>
 	    <key>width</key>	    <integer>82</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>2217</integer>
+	    <key>position</key>	    <integer>2360</integer>
 	    <key>width</key>	    <integer>98</integer>
 	  </dict>
 	</array>
@@ -44,37 +44,37 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>-1170</integer>
+	    <integer>-1199</integer>
 	    <key>width</key>
-	    <integer>102</integer>
+	    <integer>101</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>-1033</integer>
+	    <integer>-1076</integer>
 	    <key>width</key>
-	    <integer>114</integer>
+	    <integer>115</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>-872</integer>
+	    <integer>-901</integer>
 	    <key>width</key>
 	    <integer>122</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>-754</integer>
+	    <integer>-797</integer>
 	    <key>width</key>
 	    <integer>68</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>-398</integer>
+	    <integer>-441</integer>
 	    <key>width</key>
 	    <integer>91</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>-222</integer>
+	    <integer>-251</integer>
 	    <key>width</key>
 	    <integer>136</integer>
 	  </dict>

@@ -12,15 +12,15 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>1270</integer>
+	    <key>position</key>	    <integer>1346</integer>
 	    <key>width</key>	    <integer>105</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1661</integer>
+	    <key>position</key>	    <integer>1737</integer>
 	    <key>width</key>	    <integer>111</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1881</integer>
+	    <key>position</key>	    <integer>1971</integer>
 	    <key>width</key>	    <integer>443</integer>
 	  </dict>
 	</array>
@@ -28,13 +28,13 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>-1248</integer>
+	    <integer>-1247</integer>
 	    <key>width</key>
 	    <integer>137</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>-795</integer>
+	    <integer>-820</integer>
 	    <key>width</key>
 	    <integer>149</integer>
 	  </dict>
@@ -42,7 +42,7 @@
 	    <key>position</key>
 	    <integer>-323</integer>
 	    <key>width</key>
-	    <integer>138</integer>
+	    <integer>139</integer>
 	  </dict>
 	</array>
       </dict>
